@@ -11,3 +11,5 @@
 ### Major findings 
 ✍️ Using the given data predicted how much marks will a student will score if he/she studied 9.25 hours. 
 
+This is the Task done as part of [GRIP:The Spark Foundation](https://internship.thesparksfoundation.info/) Data Science and Business Analytics Internship.
+
